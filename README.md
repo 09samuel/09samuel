@@ -1,12 +1,12 @@
 <table>
 <tr>
-<td width="35%" valign="top">
+<td width="50%" valign="top">
 
 
 
 </td>
 
-<td width="65%" valign="top">
+<td width="50%" valign="top">
 
 ```text
 samuel@github
