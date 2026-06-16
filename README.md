@@ -2,7 +2,7 @@
 <tr>
 <td width="50%" valign="top">
 
-
+<img src="./assets/profile.png"/>
 
 </td>
 
