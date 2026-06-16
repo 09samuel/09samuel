@@ -1,12 +1,12 @@
 <table>
 <tr>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 <img src="./assets/profile.png"/>
 
 </td>
 
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ```text
 09samuel@github
