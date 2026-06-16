@@ -1,16 +1,72 @@
-## Hi there 👋
+<table>
+<tr>
+<td width="35%" valign="top">
 
-<!--
-**09samuel/09samuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/profile.png" height="720"/>
 
-Here are some ideas to get you started:
+</td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<td width="65%" valign="top">
+
+```yaml
+samuel@github
+─────────────────────────────
+
+Role: Full Stack Developer
+
+Education:
+  MCA @ Kristu Jayanti University
+  BCA @ Fr. Agnel College
+
+Languages:
+  Java
+  Python
+  TypeScript
+  JavaScript
+  SQL
+
+Frontend:
+  React
+  Angular
+  Tailwind CSS
+
+Backend:
+  Node.js
+  Express.js
+  FastAPI
+  WebSockets
+
+Databases:
+  PostgreSQL
+  MongoDB
+  Firebase
+  Supabase
+
+Cloud:
+  AWS EC2
+  AWS ECS
+  AWS RDS
+  AWS S3
+
+DevOps:
+  Docker
+  GitHub Actions
+  CI/CD
+
+Projects:
+  DatabaseDump
+  CodeKeeper
+  LiveScribe
+
+Certifications:
+  AWS Cloud Developing
+  Azure AZ-900
+  OCI AI Foundations
+
+Contact:
+  Email: samuelfernandes009@gmail.com
+  Website: samuelfernandes.dev
+  GitHub: 09samuel
+  LinkedIn: samuel-fernandes
+  ```
+</td> </tr> </table> 
