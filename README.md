@@ -2,71 +2,30 @@
 <tr>
 <td width="35%" valign="top">
 
-<img src="./assets/profile.png" height="720"/>
+<img src="./assets/profile.png"/>
 
 </td>
 
 <td width="65%" valign="top">
 
-```yaml
+```text
 samuel@github
-─────────────────────────────
+────────────────────────────────────────────────────────────
+· Role: ...................... Full Stack Developer
 
-Role: Full Stack Developer
+────────────────────────────────────────────────────────────
+· Skills
+  Languages: ................. Java, Python, TypeScript, JavaScript
+  Frontend: .................. React, Angular, Tailwind CSS
+  Backend: ................... Node.js, Express.js, FastAPI, WebSockets
+  Database: .................. PostgreSQL, MongoDB
+  Cloud: ..................... AWS, Docker, GitHub Actions
+                               
+────────────────────────────────────────────────────────────
+· Contact
+  Email: ..................... samuelfernandes009@gmail.com
+  Website: ................... samuelfernandes.dev
+  LinkedIn: .................. linkedin.com/in/samuel-fernandes-450701240
+```
 
-Education:
-  MCA @ Kristu Jayanti University
-  BCA @ Fr. Agnel College
-
-Languages:
-  Java
-  Python
-  TypeScript
-  JavaScript
-  SQL
-
-Frontend:
-  React
-  Angular
-  Tailwind CSS
-
-Backend:
-  Node.js
-  Express.js
-  FastAPI
-  WebSockets
-
-Databases:
-  PostgreSQL
-  MongoDB
-  Firebase
-  Supabase
-
-Cloud:
-  AWS EC2
-  AWS ECS
-  AWS RDS
-  AWS S3
-
-DevOps:
-  Docker
-  GitHub Actions
-  CI/CD
-
-Projects:
-  DatabaseDump
-  CodeKeeper
-  LiveScribe
-
-Certifications:
-  AWS Cloud Developing
-  Azure AZ-900
-  OCI AI Foundations
-
-Contact:
-  Email: samuelfernandes009@gmail.com
-  Website: samuelfernandes.dev
-  GitHub: 09samuel
-  LinkedIn: samuel-fernandes
-  ```
 </td> </tr> </table> 
